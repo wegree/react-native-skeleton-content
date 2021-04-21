@@ -2,6 +2,8 @@
 
 > If you are not using expo, please head up to [this page](https://github.com/alexZajac/react-native-skeleton-content-nonexpo) instead.
 
+> Created to unblock us until the src package merges [this pr](https://github.com/alexZajac/react-native-skeleton-content/pull/38). Fixes error: `Animated node with ID 2 already exists`
+
 <img width="220px" align="right" src="https://raw.githubusercontent.com/alexZajac/react-native-skeleton-content/master/demos/main.gif" />
 
 React native Skeleton Content, a simple yet fully customizable component made to achieve loading animation in a Skeleton-style. Works in both iOS and Android.
